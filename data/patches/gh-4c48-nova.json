@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Nova",
+	"description": "Silly Pixel Art made by u/Beatrixninj and u/smugborusichin\nIt does not YET represent an subreddit",
+	"links": {},
+	"path": {
+		"249": [
+			[
+				-1471,
+				-269
+			],
+			[
+				-1471,
+				-281
+			],
+			[
+				-1454,
+				-281
+			],
+			[
+				-1454,
+				-269
+			],
+			[
+				-1454,
+				-268
+			],
+			[
+				-1471,
+				-268
+			]
+		]
+	},
+	"center": {
+		"249": [
+			-1462,
+			-274
+		]
+	}
+}
